@@ -1,0 +1,10 @@
+{'titulo': 'Troll', 'ano': 2025, 'autor': 'Shakespear', 'quantidade': 21, 'ISBN': '23412324', 'categoria': ''}
+{'titulo': 'LivroTeste', 'ano': 2025, 'autor': 'Shakespear', 'quantidade': 34, 'ISBN': '23412324', 'categoria': ''}
+{'titulo': 'LivroTeste', 'tipo': 'Aluno', 'ano': 2025, 'autor': 'Shakespear', 'quantidade': 40, 'ISBN': '23252523412324', 'categoria': ''}
+{'titulo': 'SKDAKSDSA', 'autor': 'askldsakd', 'ano': '2414', 'categoria': '', 'quantidade': 3, 'ISBN': '2959252914512'}
+{'titulo': 'iisadisiad', 'autor': 'sei la', 'ano': '4214', 'categoria': 'categoria', 'quantidade': 268, 'ISBN': '4104101'}
+{'titulo': 'Neuromancer: 1', 'autor': 'William Gibson', 'ano': '2016', 'categoria': 'Cyberpunk', 'quantidade': 2, 'ISBN': '9788576573005'}
+{'titulo': 'asdsa', 'autor': 'sad', 'ano': '2002', 'categoria': '', 'quantidade': 18, 'ISBN': '241412421'}
+{'titulo': 'Coisa', 'autor': 'Coisa', 'ano': '2023', 'categoria': '', 'quantidade': '', 'ISBN': '9421941567890'}
+{'titulo': 'Titulo', 'autor': 'Autor', 'ano': '2025', 'categoria': '', 'quantidade': '0', 'ISBN': '49124924914'}
+{'titulo': 'Ahh', 'autor': 'Autor', 'ano': '2025', 'categoria': 'categoria', 'quantidade': '100', 'ISBN': '4200420140124'}

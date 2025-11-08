@@ -1,0 +1,90 @@
+Log gerado em: 2025-10-31 15:34:42.695674
+ 
+Usuarios Atrasados: 
+ 
+Nome do usuário: marcos
+Matricula: 24242323223552322
+Titulo do Livro: LivroTeste
+ISBN: 23252523412324
+Data de entrega: 2023/12/31
+--------------------
+
+ 
+Log gerado em: 2025-10-31 15:40:19.851776
+ 
+Usuarios Atrasados: 
+ 
+Nome do usuário: marcos
+Matricula: 24242323223552322
+Titulo do Livro: LivroTeste
+ISBN: 232525234123Log gerado em: 2025-11-02 00:38:51.138223
+ 
+Usuarios Atrasados: 
+ 
+Nome do usuário: marcos
+Matricula: 24242323223552322
+Titulo do Livro: LivroTeste
+ISBN: 23252523412324
+Data de entrega: 2023/12/31
+--------------------
+
+ 
+24
+Data de entrega: 2023/12/31
+--------------------
+
+ 
+Log gerado em: 2025-10-31 18:11:00.759333
+ 
+Usuarios Atrasados: 
+ 
+Nome do usuário: marcos
+Matricula: 24242323223552322
+Titulo do Livro: LivroTeste
+ISBN: 23252523412324
+Data de entrega: 2023/12/31
+--------------------
+Nome do usuário: marcos
+Matricula: 24242323223552322
+Titulo do Livro: iisadisiad
+ISBN: 4104101
+Data de entrega: 2025/10/25
+--------------------
+
+ 
+Log gerado em: 2025-11-02 00:38:51.138223
+ 
+Usuarios Atrasados: 
+ 
+Nome do usuário: marcos
+Matricula: 24242323223552322
+Titulo do Livro: LivroTeste
+ISBN: 23252523412324
+Data de entrega: 2023/12/31
+--------------------
+
+ 
+Log gerado em: 2025-11-02 06:05:30.295507
+ 
+Usuarios Atrasados: 
+ 
+
+ 
+Log gerado em: 2025-11-04 01:57:38.107012
+ 
+Usuarios Atrasados: 
+ 
+Nome do usuário: marcos
+Matricula: 24242323223552322
+Titulo do Livro: Troll
+ISBN: 23412324
+Data de entrega: 2025-06-20
+--------------------
+Nome do usuário: marcos
+Matricula: 24242323223552322
+Titulo do Livro: SKDAKSDSA
+ISBN: 2959252914512
+Data de entrega: 2025-03-10
+--------------------
+
+ 

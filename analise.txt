@@ -1,0 +1,32 @@
+- Requisitos
+    - Cadastrar livros
+    - Cadastrar usuários
+    - Controlar prazos e multas por atrasos
+    - Permitir reservas de livros já emprestados
+    - Realizar buscas no acervo por titulo, autor ou categoria
+    - Gerar relatorio de uso e pendências
+
+
+- Entidades
+    - Usuario
+    - Livro
+    - Emprestimo
+
+
+- Usuario
+
+nome, matrícula, tipo(aluno/professor), emprestimos
+
+- Livro 
+
+titulo, autor, ano, ISBN, categoria, quantidade disponivel
+
+- Emprestimo
+
+livro, usuario
+
+
+- DBMOCK
+
+Registrar um dado, tendo um arquivo e o dado a ser salvo
+
