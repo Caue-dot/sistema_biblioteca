@@ -1,3 +1,0 @@
-{'nome': 'marcos', 'matricula': '24242323223552322', 'tipo': 'Professor', 'email': 'pedro@email.com'}
-{'nome': 'ANa', 'matricula': '4141123', 'tipo': 'Aluno', 'email': 'pedro@email.com'}
-{'nome': 'Pedro', 'matricula': '20420402421', 'email': 'pedro@email.com', 'tipo': 'Professor'}

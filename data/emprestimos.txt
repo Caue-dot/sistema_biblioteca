@@ -1,4 +1,0 @@
-{'matricula': '24242323223552322', 'ISBN': '241412421', 'data': '2026-03-12', 'createdAt': '2025-11-03', 'status': 'ativo'}
-{'matricula': '24242323223552322', 'ISBN': '23412324', 'data': '2025-06-20', 'createdAt': '2025-11-04', 'status': 'ativo'}
-{'matricula': '24242323223552322', 'ISBN': '2959252914512', 'data': '2025-03-10', 'createdAt': '2025-11-04', 'status': 'ativo'}
-{'matricula': '24242323223552322', 'ISBN': '4104101', 'data': '2025-03-20', 'createdAt': '2025-11-04', 'status': 'inativo'}
