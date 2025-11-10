@@ -1,4 +1,6 @@
 
+import os
+from DBMock import DBMock
 from Emprestimo import Emprestimo
 from EmprestimoLog import EmprestimoLog
 from Livro import Livro
@@ -11,6 +13,8 @@ loanModel = Emprestimo()
 reservationModel = Reserva()
 
 def main():
+    if(not os.path.isdir('data')):
+        DBMock.initializeDB()
     menu()
 
 def closeProgam():

@@ -1,6 +1,16 @@
 
 
+import os
 
+
+tables = [
+    'emprestimos.txt',
+    'livros.txt',
+    'reservas.txt',
+    'usuarios.txt',
+    'usuariosAtrasados.txt',
+    'usuariosEmprestimos.txt'
+]
 
 class DBMock:
 
@@ -75,7 +85,12 @@ class DBMock:
         with open(filepath, 'w') as f:
             f.writelines(new_lines)
 
-       
+    def initializeDB():
+        os.mkdir('data')
+        for table in tables:
+            with open('data/' + table, 'w') as f:
+                pass
+        
         
         
         
