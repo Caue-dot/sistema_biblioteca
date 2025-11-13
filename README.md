@@ -22,3 +22,4 @@ ou se não funcionar:
 ## Integrantes
 
 - Cauê Pereira de Oliveira, Matrícula: 202503761914
+- Roseleny Farias Ribeiro, Matrícula: 202508943808
